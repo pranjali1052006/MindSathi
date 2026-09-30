@@ -1,0 +1,2 @@
+# MindSathi
+Hackathon_project
