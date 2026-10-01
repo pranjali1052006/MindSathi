@@ -1,0 +1,9 @@
+node_modules/
+dist/
+backend/target/
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
